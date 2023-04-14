@@ -1,1 +1,1 @@
-Este es un ejemplo de como crear un repositorio y clonar
+Este es un ejemplo de como crear un repositorio y clonarlo en mi computadora
