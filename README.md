@@ -1,2 +1,1 @@
-# PrepCourse-Henry1
-Repositorio de prueba moduo 2 de henry
+Este es un ejemplo de como crear un repositorio y clonar
